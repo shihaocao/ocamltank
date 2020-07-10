@@ -1,0 +1,17 @@
+#use "topfind";;
+#require "oUnit";;
+#require "yojson";;
+#require "ANSITerminal";;
+#require "graphics";;
+#directory "_build";;
+#load "util.cmo";;
+#load "const.cmo";;
+#load "movable.cmo";;
+#load "render.cmo";;
+#load "interactions.cmo";;
+#load "state.cmo";;
+#load "block.cmo";;
+#load "input.cmo";;
+#load "process.cmo";;
+#load "read_json.cmo";;
+#load "ai.cmo";;

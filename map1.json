@@ -1,0 +1,1080 @@
+{
+  "walls": [
+    {
+      "name": "1",
+      "width": 1.0,
+      "coord": [
+        0.5,
+        8.5
+      ]
+    },
+    {
+      "name": "2",
+      "width": 1.0,
+      "coord": [
+        0.5,
+        9.5
+      ]
+    },
+    {
+      "name": "3",
+      "width": 1.0,
+      "coord": [
+        1.5,
+        6.5
+      ]
+    },
+    {
+      "name": "4",
+      "width": 1.0,
+      "coord": [
+        1.5,
+        7.5
+      ]
+    },
+    {
+      "name": "5",
+      "width": 1.0,
+      "coord": [
+        1.5,
+        8.5
+      ]
+    },
+    {
+      "name": "6",
+      "width": 1.0,
+      "coord": [
+        1.5,
+        9.5
+      ]
+    },
+    {
+      "name": "7",
+      "width": 1.0,
+      "coord": [
+        2.5,
+        3.5
+      ]
+    },
+    {
+      "name": "8",
+      "width": 1.0,
+      "coord": [
+        2.5,
+        6.5
+      ]
+    },
+    {
+      "name": "9",
+      "width": 1.0,
+      "coord": [
+        2.5,
+        8.5
+      ]
+    },
+    {
+      "name": "10",
+      "width": 1.0,
+      "coord": [
+        3.5,
+        1.5
+      ]
+    },
+    {
+      "name": "11",
+      "width": 1.0,
+      "coord": [
+        3.5,
+        2.5
+      ]
+    },
+    {
+      "name": "12",
+      "width": 1.0,
+      "coord": [
+        3.5,
+        3.5
+      ]
+    },
+    {
+      "name": "13",
+      "width": 1.0,
+      "coord": [
+        3.5,
+        8.5
+      ]
+    },
+    {
+      "name": "14",
+      "width": 1.0,
+      "coord": [
+        4.5,
+        4.5
+      ]
+    },
+    {
+      "name": "15",
+      "width": 1.0,
+      "coord": [
+        4.5,
+        5.5
+      ]
+    },
+    {
+      "name": "16",
+      "width": 1.0,
+      "coord": [
+        5.5,
+        4.5
+      ]
+    },
+    {
+      "name": "17",
+      "width": 1.0,
+      "coord": [
+        5.5,
+        5.5
+      ]
+    },
+    {
+      "name": "18",
+      "width": 1.0,
+      "coord": [
+        6.5,
+        1.5
+      ]
+    },
+    {
+      "name": "19",
+      "width": 1.0,
+      "coord": [
+        6.5,
+        0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        0.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        1.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        2.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        3.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        4.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        5.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        6.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        7.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        8.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        9.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        10.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        11.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        12.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        13.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        14.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        15.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        16.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        17.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        18.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        19.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        20.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        21.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        22.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        23.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        24.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        25.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        26.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        27.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        28.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        29.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "bottom wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        -0.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        1.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        2.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        3.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        4.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        5.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        6.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        7.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        8.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        9.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        10.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        11.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        12.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        13.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        14.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        15.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        16.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        17.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        18.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        19.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        20.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        21.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        22.5
+      ]
+    },
+    {
+      "name": "left wall",
+      "width": 1.0,
+      "coord": [
+        -0.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        0.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        1.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        2.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        3.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        4.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        5.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        6.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        7.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        8.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        9.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        10.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        11.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        12.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        13.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        14.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        15.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        16.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        17.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        18.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        19.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        20.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        21.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        22.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        23.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        24.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        25.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        26.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        27.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        28.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        29.5,
+        23.5
+      ]
+    },
+    {
+      "name": "top wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        23.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        0.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        1.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        2.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        3.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        4.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        5.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        6.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        7.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        8.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        9.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        10.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        11.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        12.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        13.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        14.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        15.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        16.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        17.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        18.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        19.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        20.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        21.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        22.5
+      ]
+    },
+    {
+      "name": "right wall",
+      "width": 1.0,
+      "coord": [
+        30.5,
+        23.5
+      ]
+    }
+  ],
+  "ditches": [
+    {
+      "name": "20",
+      "width": 1.0,
+      "coord": [
+        10.5,
+        0.5
+      ]
+    }
+  ],
+  "tanks": [
+    {
+      "loc": [
+        0.5,
+        0.5
+      ],
+      "health": 1,
+      "side": "Self"
+    },
+    {
+      "loc": [
+        3.5,
+        6.5
+      ],
+      "health": 1,
+      "side": "Enemy"
+    },
+    {
+      "loc": [
+        8.5,
+        4.5
+      ],
+      "health": 1,
+      "side": "Enemy"
+    },
+    {
+      "loc": [
+        8.5,
+        8.5
+      ],
+      "health": 1,
+      "side": "Enemy"
+    }
+  ]
+}
